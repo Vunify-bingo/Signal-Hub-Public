@@ -1,0 +1,25 @@
+# Documentation-only repository: ignore everything except explicitly public files.
+*
+!.gitignore
+!README.md
+!docs/
+!docs/integration.md
+!docs/auto-reply.md
+!docs/deployment.md
+!assets/
+!assets/contact-wecom.jpg
+!assets/materials.png
+!assets/contacts.png
+!assets/campaigns.png
+!assets/tasks.png
+!assets/dashboard.png
+!assets/messages.png
+!assets/labels.png
+!assets/ai.png
+!assets/admin.png
+!assets/members.png
+!assets/accounts.png
+!assets/network.png
+!assets/data-policy.png
+!assets/auto-reply.png
+!assets/audit.png
